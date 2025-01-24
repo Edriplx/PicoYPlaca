@@ -1,2 +1,2 @@
 # PicoYPlaca
-programa echo en C#
+Programa hecho en C#
